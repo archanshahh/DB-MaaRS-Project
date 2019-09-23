@@ -1,6 +1,5 @@
 # DB-MaaRS-Project
 
-Description:
 DB-MaaRS (Database of Mutations in aaRSs) is a website used to
 visualize user-defined mutations on cytoplasmic or mitochondrion
 protein sequences and also exhibits 3D structure of the selected
